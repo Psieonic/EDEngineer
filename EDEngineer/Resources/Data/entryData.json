@@ -522,14 +522,14 @@
     "Rarity": "VeryRare",
     "FormattedName": "militarygradealloys",
     "Kind": "Material",
-    "OriginDetails": [ "Signal source (High grade emissions, War, Civil war)", "Mission reward" ]
+    "OriginDetails": [ "Signal source (High grade emissions, War/Civil war)", "Mission reward" ]
   },
   {
     "Name": "Military Supercapacitors",
     "Rarity": "VeryRare",
     "FormattedName": "militarysupercapacitors",
     "Kind": "Material",
-    "OriginDetails": [ "Signal source (High grade emissions, War, Civil war)", "Mission reward" ]
+    "OriginDetails": [ "Signal source (High grade emissions, War/Civil war)", "Mission reward" ]
   },
   {
     "Name": "Modified Consumer Firmware",
